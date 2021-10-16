@@ -1,1 +1,2 @@
-# Class104
+# MeanMedianMode
+solution 104
